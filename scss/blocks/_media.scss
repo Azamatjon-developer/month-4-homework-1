@@ -1,0 +1,19 @@
+.media{
+    padding: 87px 50px;
+    
+    .media-icons{
+        display: flex;
+        justify-content: center;
+    align-items: center;
+    gap: 35px;
+    }
+
+    p{
+        text-align: center;
+        padding-top: 26px;  
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 26px;
+        text-align: center;
+    }
+}
